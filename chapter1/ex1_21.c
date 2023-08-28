@@ -1,4 +1,3 @@
-kit@tlinb:~/c_exercises/ch1$ cat entab.c
 #include <stdio.h>
 
 #define MAXLINE 1000
@@ -88,4 +87,3 @@ void entab(char s[], int len)
                 }
         }
 }
-kit@tlinb:~/c_exercises/ch1$
